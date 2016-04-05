@@ -51,7 +51,8 @@ ul {
 }
 
 .content {
-  padding: 0 1rem;
+  padding-left: 12rem;
+  padding-right: 11rem;
   max-width: 1040px
   margin: auto
 }
@@ -60,7 +61,6 @@ ul {
   padding: 2rem;
   max-width: 1040px;
   margin: 4rem auto;
-
   border-top: 1px #878787 solid;
 }
 
